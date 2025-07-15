@@ -1,0 +1,101 @@
+year,country,attack_type,target_industry,attack_source,security_vulnerability_type,defense_mechanism_used,number_of_affected_users,incident_resolution_time_(in_hours),predicted_loss
+2025,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2025,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2025,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2025,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2025,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2025,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2025,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2025,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2025,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2025,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2026,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2026,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2026,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2026,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2026,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2026,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2026,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2026,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2026,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2026,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2027,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2027,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2027,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2027,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2027,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2027,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2027,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2027,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2027,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2027,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2028,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2028,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2028,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2028,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2028,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2028,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2028,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2028,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2028,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2028,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2029,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2029,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2029,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2029,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2029,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2029,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2029,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2029,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2029,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2029,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2030,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2030,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2030,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2030,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2030,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2030,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2030,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2030,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2030,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2030,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2031,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2031,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2031,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2031,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2031,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2031,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2031,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2031,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2031,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2031,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2032,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2032,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2032,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2032,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2032,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2032,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2032,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2032,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2032,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2032,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2033,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2033,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2033,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2033,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2033,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2033,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2033,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2033,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2033,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2033,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
+2034,USA,Ransomware,IT,Hacker Group,Unpatched Software,Antivirus,100000,20,62.05320000000002
+2034,India,Phishing,Finance,Insider,Weak Passwords,Firewall,200000,22,40.62620000000002
+2034,Germany,Malware,Healthcare,Botnet,Misconfigurations,Training,300000,24,61.84450000000002
+2034,UK,DDoS,Retail,Hacker Group,Unpatched Software,Antivirus,400000,26,57.14459999999999
+2034,Japan,Ransomware,IT,Insider,Weak Passwords,Firewall,500000,28,48.18999999999998
+2034,France,Phishing,Finance,Botnet,Misconfigurations,Training,600000,30,50.72740000000001
+2034,China,Malware,Healthcare,Hacker Group,Unpatched Software,Antivirus,700000,32,64.57969999999997
+2034,Brazil,DDoS,Retail,Insider,Weak Passwords,Firewall,800000,34,53.37640000000002
+2034,Canada,Ransomware,IT,Botnet,Misconfigurations,Training,900000,36,56.66970000000003
+2034,Australia,Phishing,Finance,Hacker Group,Unpatched Software,Antivirus,1000000,38,45.397699999999986
